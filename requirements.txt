@@ -1,0 +1,13 @@
+flask==3.0.0
+flask-cors==4.0.0
+torch==2.1.0
+torchvision==0.16.0
+opencv-python==4.8.1.78
+mediapipe==0.10.9           # ใช้ MediaPipe แทน face_recognition)
+Pillow==10.1.0
+numpy==1.24.3
+scipy==1.11.4
+python-dotenv==1.0.0
+requests==2.31.0
+gunicorn==21.2.0
+scipy==1.16.2
