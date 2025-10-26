@@ -8,3 +8,5 @@ flask
 tf-keras
 opencv-python
 tensorflow
+scikit-image
+scipy
